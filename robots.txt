@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://taerugh.github.io/al-folio/sitemap.xml
+Sitemap: https://taerugh.github.io/sitemap.xml
