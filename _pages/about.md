@@ -20,11 +20,6 @@ announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I'm a cofounder at [Clippership](https://www.clippership.co), where I'm building autonomous cargo sailboats to decarbonize and improve the maritime shipping industry. I want to make a positive impact on the world by solving engineering problems with a first principles approach.
