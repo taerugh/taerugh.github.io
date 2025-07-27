@@ -25,6 +25,7 @@ For our demonstrations, we used a rectangular mesh with uniformly distributed no
 We first tested with artificial measurements, where I took a subset of nodes and added noise to their position to use as a "measurement". I also dropped some of these node measurements from frame to frame to simulate missing measurements.
 
 {% include figure.liquid loading="eager" path="assets/img/cloth/sim2sim_50p_dropout.gif" title="sim2sim 50% dropout" class="img-fluid rounded z-depth-1" %}
+
 <div class="caption">
   Estimation results with artificial measurements, here with a 50% measurement dropout rate.
 </div>
