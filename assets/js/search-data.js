@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Under construction. Check back soon!",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -23,21 +23,31 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+        },{id: "projects-clippership-v1",
+          title: 'Clippership V1',
+          description: "building an autonomous sailboat (coming soon)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/clippership_v1.html";
+            },},{id: "projects-cloth-estimation",
+          title: 'Cloth Estimation',
+          description: "state estimation of cloth",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/cloth.html";
+            },},{id: "projects-greensteam",
+          title: 'Greensteam',
+          description: "developing conceptual engine designs",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
+              window.location.href = "/projects/greensteam.html";
+            },},{id: "projects-hyperxite",
+          title: 'HyperXite',
+          description: "designing and building a linear induction motor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hyperxite.html";
+            },},{id: "projects-optimal-sailboat",
+          title: 'Optimal Sailboat',
+          description: "optimal control and planning for a sailboat",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/optimal_sailboat.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
