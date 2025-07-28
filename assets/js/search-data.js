@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "projects-clippership-v1",
-          title: 'Clippership V1',
-          description: "building an autonomous sailboat (coming soon)",
+          title: 'Clippership v1',
+          description: "building an autonomous sailboat",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clippership_v1.html";
             },},{id: "projects-cloth-estimation",
