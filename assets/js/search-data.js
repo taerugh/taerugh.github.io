@@ -16,7 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-clippership-v1",
+        },{id: "projects-can-cpp",
+          title: '🔗 can-cpp',
+          description: "A C++ library for CAN bus packet handling, including support for higher level protocols CANopen and NMEA 2000.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/can-cpp.html";
+            },},{id: "projects-clippership-v1",
           title: 'Clippership v1',
           description: "building an autonomous sailboat",
           section: "Projects",handler: () => {
