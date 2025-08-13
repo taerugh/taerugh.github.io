@@ -3,6 +3,7 @@ layout: page
 title: Clippership v1
 description: building an autonomous sailboat
 img: assets/img/clippership_v1/raising_wing.jpg
+category: featured
 importance: 96
 ---
 

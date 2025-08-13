@@ -3,6 +3,7 @@ layout: page
 title: Optimal Sailboat
 description: optimal control and planning for a sailboat
 img: assets/img/optimal_sailboat/lasf_route_static.png
+category: featured
 importance: 98
 ---
 

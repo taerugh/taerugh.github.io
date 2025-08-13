@@ -3,6 +3,7 @@ layout: page
 title: Cloth Estimation
 description: state estimation of cloth
 img: assets/img/cloth/model_meas_est.png
+category: featured
 importance: 97
 ---
 

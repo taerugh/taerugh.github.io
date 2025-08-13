@@ -3,6 +3,7 @@ layout: page
 title: HyperXite
 description: designing and building a linear induction motor
 img: assets/img/hyperxite/hyperxite.jpg
+category: archive
 importance: 99
 ---
 

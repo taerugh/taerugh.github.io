@@ -3,6 +3,7 @@ layout: page
 title: Greensteam
 description: developing conceptual engine designs
 img: assets/img/greensteam/greensteam.jpg
+category: archive
 importance: 100
 ---
 
