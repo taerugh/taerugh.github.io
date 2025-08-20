@@ -50,6 +50,7 @@ importance: 96
 <br>
 
 {% include figure.liquid loading="eager" path="assets/img/clippership_v0/launch.gif" title="Launching the boat" class="img-fluid rounded z-depth-1" %}
+
 <div class="caption">
   Launch.
 </div>
