@@ -21,9 +21,14 @@ ninja.data = [{
           description: "A C++ library for CAN bus packet handling, including support for higher level protocols CANopen and NMEA 2000.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/can-cpp.html";
+            },},{id: "projects-clippership-v0",
+          title: 'Clippership v0',
+          description: "building an autonomous sailboat",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/clippership_v0.html";
             },},{id: "projects-clippership-v1",
           title: 'Clippership v1',
-          description: "building an autonomous sailboat",
+          description: "building another autonomous sailboat",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clippership_v1.html";
             },},{id: "projects-cloth-estimation",
